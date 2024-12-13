@@ -1,0 +1,9 @@
+1
+Index:
+0
+Prev_hash:
+None
+Block_type:
+Initial
+Random:
+2f0960c3ef5338a9e9f3784e332a1cca423a5fb1bbff501e8a2bad94f28b1d20
